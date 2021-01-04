@@ -1,0 +1,93 @@
+[
+{
+"id": 1,
+"message": "test Message 1",
+"is_seen": "0",
+"msg_file": null,
+"token": "1609756272",
+"user_id": "1",
+"receiver_id": "3",
+"teacher_id": null,
+"student_id": null,
+"created_at": "2021-01-04T10:31:12.000000Z",
+"updated_at": "2021-01-04T10:31:12.000000Z"
+},
+{
+"id": 2,
+"message": "test Message 1",
+"is_seen": "0",
+"msg_file": null,
+"token": "1609756487",
+"user_id": "1",
+"receiver_id": "3",
+"teacher_id": null,
+"student_id": null,
+"created_at": "2021-01-04T10:34:47.000000Z",
+"updated_at": "2021-01-04T10:34:47.000000Z"
+},
+{
+"id": 3,
+"message": "test Message 1",
+"is_seen": "0",
+"msg_file": null,
+"token": "1609756498",
+"user_id": "1",
+"receiver_id": "3",
+"teacher_id": null,
+"student_id": null,
+"created_at": "2021-01-04T10:34:58.000000Z",
+"updated_at": "2021-01-04T10:34:58.000000Z"
+},
+{
+"id": 4,
+"message": "test Message 1",
+"is_seen": "0",
+"msg_file": null,
+"token": "1609756644",
+"user_id": "1",
+"receiver_id": "3",
+"teacher_id": null,
+"student_id": null,
+"created_at": "2021-01-04T10:37:24.000000Z",
+"updated_at": "2021-01-04T10:37:24.000000Z"
+},
+{
+"id": 5,
+"message": "test Message 2",
+"is_seen": "0",
+"msg_file": null,
+"token": "1609756676",
+"user_id": "1",
+"receiver_id": "3",
+"teacher_id": null,
+"student_id": null,
+"created_at": "2021-01-04T10:37:56.000000Z",
+"updated_at": "2021-01-04T10:37:56.000000Z"
+},
+{
+"id": 6,
+"message": "test Message 3",
+"is_seen": "0",
+"msg_file": null,
+"token": "1609756683",
+"user_id": "1",
+"receiver_id": "3",
+"teacher_id": null,
+"student_id": null,
+"created_at": "2021-01-04T10:38:03.000000Z",
+"updated_at": "2021-01-04T10:38:03.000000Z"
+},
+{
+"id": 7,
+"message": "test Message 4",
+"is_seen": "0",
+"msg_file": null,
+"token": "1609758003",
+"user_id": "1",
+"receiver_id": "3",
+"teacher_id": null,
+"student_id": null,
+"created_at": "2021-01-04T11:00:03.000000Z",
+"updated_at": "2021-01-04T11:00:03.000000Z"
+}
+]
